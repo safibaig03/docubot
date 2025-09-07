@@ -34,6 +34,8 @@ Agentic RAG Chatbot with MCP is a Retrieval-Augmented Generation (RAG) chatbot t
 
 ## 📁 Project Structure
 
+```
+
 agentic-rag-chatbot/
 ├── app/
 │ ├── agents/
@@ -53,14 +55,13 @@ agentic-rag-chatbot/
 └── start.bat
 
 
----
+```
 
 ## 🛠️ Setup Instructions
 
 ### 1. 📦 Install Dependencies
 Make sure you are in the project's root directory.
 
-```bash
 # Create and activate virtual environment
 uv venv
 .\.venv\Scripts\activate
