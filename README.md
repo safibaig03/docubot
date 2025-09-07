@@ -63,11 +63,19 @@ agentic-rag-chatbot/
 Make sure you are in the project's root directory.
 
 # Create and activate virtual environment
+
+```
 uv venv
 .\.venv\Scripts\activate
 
+```
+
 # Install requirements
+
+```
 uv pip install -r requirements.txt
+
+```
 
 
 ### 2. 🔑 Set API Keys
@@ -84,16 +92,25 @@ You need to run the backend and frontend in two separate terminals. A start.bat 
 
 Using the script:
 
+```
 .\start.bat
+
+```
 
 
 Manual Method:
 
 Terminal 1 (Backend):
 
+```
 uvicorn app.main:app --reload
+
+```
 
 
 Terminal 2 (Frontend):
 
+```
 streamlit run ui/app.py
+
+```
