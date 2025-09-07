@@ -62,7 +62,7 @@ agentic-rag-chatbot/
 ### 1. 📦 Install Dependencies
 Make sure you are in the project's root directory.
 
-# Create and activate virtual environment
+## Create and activate virtual environment
 
 ```
 uv venv
@@ -70,7 +70,7 @@ uv venv
 
 ```
 
-# Install requirements
+### 1. Install requirements
 
 ```
 uv pip install -r requirements.txt
@@ -89,6 +89,8 @@ HUGGINGFACE_API_KEY="Get your key from https://huggingface.co/settings/tokens"
 ### 3. 🖥️ Launch the Application
 
 You need to run the backend and frontend in two separate terminals. A start.bat script is included for convenience on Windows.
+
+
 
 Using the script:
 
