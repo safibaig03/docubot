@@ -81,9 +81,11 @@ uv pip install -r requirements.txt
 ### 2. 🔑 Set API Keys
 Create a .env file in the project's root directory. Add your API keys:
 
-GOOGLE_API_KEY="Get your key from https://aistudio.google.com/app/apikey"
-GROQ_API_KEY="Get your key from https://console.groq.com/keys"
-HUGGINGFACE_API_KEY="Get your key from https://huggingface.co/settings/tokens"
+GOOGLE_API_KEY="Get your key from https://aistudio.google.com/app/apikey
+
+GROQ_API_KEY="Get your key from https://console.groq.com/keys
+
+HUGGINGFACE_API_KEY="Get your key from https://huggingface.co/settings/tokens
 
 
 ### 3. 🖥️ Launch the Application
