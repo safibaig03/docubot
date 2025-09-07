@@ -1,10 +1,10 @@
-# 🧠 Agentic RAG Chatbot with MCP (LangGraph + LangChain)
+# 🤖 Agentic RAG Chatbot with MCP (LangGraph + LangChain)
 
 Agentic RAG Chatbot with MCP is a Retrieval-Augmented Generation (RAG) chatbot that answers user queries using uploaded documents. It is built with a custom agentic architecture using FastAPI and Streamlit, and follows a Model Context Protocol (MCP) for inter-agent communication.
 
 ---
 
-## 🚀 Features
+## ✨ Features
 
 - ✅ **Multi-Format Document Support**: Natively parses and understands `.pdf`, `.docx`, `.pptx`, `.csv`, and `.txt` files.  
 - 🧠 **Custom Agentic Architecture**:
@@ -18,7 +18,7 @@ Agentic RAG Chatbot with MCP is a Retrieval-Augmented Generation (RAG) chatbot t
 
 ---
 
-## 🧱 Tech Stack
+## 🛠 Tech Stack
 
 | Layer            | Tool                                              |
 |-----------------|---------------------------------------------------|
@@ -57,7 +57,7 @@ agentic-rag-chatbot/
 
 ```
 
-## 🛠️ Setup Instructions
+## ⚡ Setup Instructions
 
 ### 1. 📦 Install Dependencies
 Make sure you are in the project's root directory.
